@@ -31,14 +31,14 @@
     Work for Artificial Intelligence classes from Federal University of Espirito Santo <br />
     using Knowledge-Based Systems
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics">View Demo</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems">View Demo</a>
     ·
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics/issues">Report Bug</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems/issues">Report Bug</a>
     ·
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-metaheuristics/issues">Request Feature</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems/issues">Request Feature</a>
   </p>
 </div>
 
