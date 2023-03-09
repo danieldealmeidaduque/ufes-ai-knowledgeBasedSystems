@@ -34,8 +34,6 @@
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems">View Demo</a>
-    ·
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems/issues">Report Bug</a>
     ·
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-knowledge-based-systems/issues">Request Feature</a>
