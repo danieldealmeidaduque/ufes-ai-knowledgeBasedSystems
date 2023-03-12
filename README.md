@@ -1,7 +1,7 @@
 <h3 align="center"> Performance analysis of Knowledge-Based Systems in the Google Dinosaur game </h3>
 
   <p align="center">
-    Work for Artificial Intelligence classes from Federal University of Espirito Santo
+    Work for Artificial Intelligence classes from Federal University of Espirito Santo (UFES)
     <br />
     using Knowledge-Based Systems
     <br />
@@ -19,9 +19,16 @@
 ## About The Project
 
 <p align="justify">
-    The article aims to analyze knowledge-based systems that use well-defined rules to play the Google Dinosaur game and achieve the highest possible score. The intelligent agent defined by rules will be responsible for choosing the keys during the game. After development, a comparison of results will be made using statistical tests: paired t-test and non-parametric Wilcoxon test, between the agent developed by the Artificial Intelligence course professor, Flávio Miguel Varejão, and the agent developed in the article, which was inspired by the professor's agent and the classifier created in the second work.
+  My project objective is to analyze knowledge-based systems that use pre-defined rules to play the Google Dinosaur game and achieve the highest possible score. To achieve this, I will develop an intelligent agent that utilizes pre-determined rules to determine which keys to press during gameplay.
 </p>
 
+<p align="justify">
+  After the development of my agent, I will perform a statistical analysis to compare its performance with that of the agent developed by the Artificial Intelligence course professor, Flávio Miguel Varejão. To carry out this comparison, I will utilize two statistical tests, the paired t-test and non-parametric Wilcoxon test.
+</p>
+
+<p align="justify">
+  My agent is inspired by both the professor's agent and the classifier created in the second work. My goal is to demonstrate the effectiveness of my approach in achieving the highest possible score in the game when compared to the professor's agent.
+</p>
 
 <!-- CONTACT -->
 ## Contact
