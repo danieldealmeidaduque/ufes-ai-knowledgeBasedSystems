@@ -5,13 +5,11 @@
     <br />
     using Knowledge-Based Systems
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-knowledgeBasedSystems"<strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-knowledgebasedsystems"<strong>Explore the docs »</strong></a>
     <br />
     08/22 - 08/22
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-knowledgeBasedSystems">Report Bug</a>
-    ·
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-knowledgeBasedSystems">Request Feature</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-knowledgebasedsystems">Report Bug</a>
   </p>
 </div>
 
